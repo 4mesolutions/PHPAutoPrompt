@@ -3,7 +3,7 @@
     "description": "PHPAutoPrompt is a PHP class for generating prompts using OpenAI API or Anthropic API.",
     "type": "library",
     "license": "MIT",
-    "stability: "stable",
+    "version": "1.0.0-stable",
     "authors": [
         {
             "name": "Gabriel Costa de Mello Paiva",
