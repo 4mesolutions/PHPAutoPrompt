@@ -1,4 +1,4 @@
-2{
+{
     "name": "4mesolutions/php-auto-prompt",
     "description": "PHPAutoPrompt is a PHP class for generating prompts using OpenAI API or Anthropic API.",
     "type": "library",
