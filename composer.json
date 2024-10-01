@@ -1,12 +1,12 @@
 {
-    "name": "your-username/phpautoprompt",
+    "name": "4mesolutions/PHPAutoPrompt",
     "description": "PHPAutoPrompt is a PHP class for generating prompts using OpenAI API or Anthropic API.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Gabriel Costa de Mello Paiva",
-            "email": "your-email@example.com"
+            "email": "gabriel@echdesign.co.uk"
         }
     ],
     "require": {
