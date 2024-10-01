@@ -1,8 +1,9 @@
-{
+2{
     "name": "4mesolutions/php-auto-prompt",
     "description": "PHPAutoPrompt is a PHP class for generating prompts using OpenAI API or Anthropic API.",
     "type": "library",
     "license": "MIT",
+    "stability: "stable",
     "authors": [
         {
             "name": "Gabriel Costa de Mello Paiva",
@@ -10,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=8.3",
+        "php": ">=8.2",
         "guzzlehttp/guzzle": "^7.0"
     },
     "autoload": {
